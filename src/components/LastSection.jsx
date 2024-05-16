@@ -9,7 +9,7 @@ function LastSection() {
         <span className="support-email">
           <p>Email Support</p>
           <h5>
-            <a href="#"></a>help@rent&hirenj.com
+            <a href={`#`}></a>help@rent&hirenj.com
           </h5>
         </span>
 
@@ -45,48 +45,48 @@ function LastSection() {
           <ul className="footer-list">
             <li className="footer-item">
               <span className="page-acc">
-                <a className="title-text" href="#">
+                <a className="title-text" href={`#`}>
                   My Account
                 </a>
-                <a href="#">Login </a>
-                <a href="#">Register</a>
+                <a href={`#`}>Login </a>
+                <a href={`#`}>Register</a>
               </span>
             </li>
 
             <li className="footer-item">
               <span className="footer-payment">
-                <a className="title-text" href="#">
+                <a className="title-text" href={`#`}>
                   Payment
                 </a>
-                <a href="#">Wallet</a>
-                <a href="#">Verve </a>
-                <a href="#">Mastercard </a>
-                <a href="#">Visa </a>
+                <a href={`#`}>Wallet</a>
+                <a href={`#`}>Verve </a>
+                <a href={`#`}>Mastercard </a>
+                <a href={`#`}>Visa </a>
               </span>
             </li>
 
             <li className="footer-item">
               <span className="footer-support">
-                <a className="title-text" href="#">
+                <a className="title-text" href={`#`}>
                   Help and Support
                 </a>
-                <a href="#">Blog </a>
-                <a href="#">Reviews </a>
-                <a href="#">FAQ </a>
-                <a href="#">Feedback </a>
-                <a href="#">Contact </a>
+                <a href={`#`}>Blog </a>
+                <a href={`#`}>Reviews </a>
+                <a href={`#`}>FAQ </a>
+                <a href={`#`}>Feedback </a>
+                <a href={`#`}>Contact </a>
               </span>
             </li>
 
             <li className="footer-item">
               <span className="footer-terms">
-                <a className="title-text" href="#">
+                <a className="title-text" href={`#`}>
                   Information
                 </a>
-                <a href="#">Advertise </a>
-                <a href="#">here </a>
-                <a href="#">Terms & Conditions </a>
-                <a href="#">States </a>
+                <a href={`#`}>Advertise </a>
+                <a href={`#`}>here </a>
+                <a href={`#`}>Terms & Conditions </a>
+                <a href={`#`}>States </a>
               </span>
             </li>
           </ul>

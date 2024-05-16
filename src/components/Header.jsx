@@ -11,7 +11,7 @@ function Header() {
 
         <div className="category">
           <RxHamburgerMenu className="logo-menu" />
-          <p className="logo-text">All Categories</p>
+          <p className="logo-text"> All Categories</p>
         </div>
       </div>
 

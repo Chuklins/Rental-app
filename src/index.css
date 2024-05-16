@@ -47,6 +47,7 @@ body{
   display: flex;
   align-items: center;
   gap: 5px;
+  cursor: pointer;
 }
 
 p{
@@ -66,12 +67,14 @@ p{
   padding: 6px 8px;
   border: none;
   margin-right: 40px;
+  cursor: pointer;
 }
 
 .menu-bar{
   display: flex;
   align-items: center;
   gap: 8px;
+  cursor: pointer;
 }
 
 .menu-bar .Profile-menu{
