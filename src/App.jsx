@@ -4,13 +4,13 @@ import PostAdsPage from "./Pages/PostAdsPage/index.jsx";
 
 function App() {
   return (
-    <BroswerRouter>
+    <BrowserRouter>
       <Routes>
-        {/* <Route path="/" element={<HomePage />}></Route> */}
+        <Route path="/" element={<HomePage />}></Route>
         <Route path="/home" element={<HomePage />}></Route>
         <Route path="/post-ads" element={<PostAdsPage />}></Route>
       </Routes>
-    </BroswerRouter>
+    </BrowserRouter>
   );
 }
 
