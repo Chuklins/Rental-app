@@ -10,6 +10,7 @@ function App() {
         <Route path='/' element={<HomePage />}></Route>
         <Route path='/home' element={<HomePage />}></Route>
         <Route path='/post-ads' element={<PostAdsPage />}></Route>
+        <Route path='/post-ads' element={<PostAdsPage />}></Route>
       </Routes>
     </BrowserRouter>
   );

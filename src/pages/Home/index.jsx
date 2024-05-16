@@ -1,6 +1,3 @@
-import React from 'react';
-
-
 import FirstSection from "../../component/FirstSection.jsx";
 import Header from "../../component/Header.jsx";
 import HeroSection from "../../component/HeroSection.jsx";
@@ -11,12 +8,12 @@ import ThirdSection from "../../component/ThirdSection.jsx";
 function index() {
   return (
     <>
-        <Header />
+      <Header />
       <HeroSection />
       <FirstSection />
       <SecondSection />
       <ThirdSection />
-      <LastSection /> 
+      <LastSection />
     </>
   )
 }
